@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="128" y2="128">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+
+  <path
+    d="M92 24
+       H44
+       L28 40
+       L44 56
+       H76
+       L92 72
+       L76 88
+       H28
+       L44 104
+       H84
+       L100 88
+       L84 72
+       H52
+       L36 56
+       L52 40
+       H100
+       Z"
+    fill="url(#grad)"
+    stroke="#111827"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+</svg>
